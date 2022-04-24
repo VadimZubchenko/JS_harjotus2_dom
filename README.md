@@ -1,7 +1,6 @@
 # JS_harjotus2_dom
 
 - How to make a transfer Javascript to Typescript https://youtu.be/qFMMOJucqTw :
-- npm install typescript --save-dev
 - npx tsc --init (to create tsconfig.json, then uncomment: ”outDoor”: ”./dist”, server.js is placed”rootDir”: ”./”, ”moduleResolution”…)
 - npm -D typescript @types/node @types/express @types/nodemon (to adding into devDependcies)
 - change the server.js to server.ts
